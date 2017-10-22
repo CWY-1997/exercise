@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+/*个人简历*/
+.logo h1{ font-size:18px;}
+
+/*介绍*/
+.service h4{ font-size:14px;}
+
+/*基本信息*/
+.w3ls-agile-left-info{ margin:10px;}
+.w3ls-agile-left-info h4{ font-size:14px;}
+.w3ls-agile-left-info p{ font-size:14px;}
+
+/*工作经验*/
+.education-agile-w3l-info h4{ font-size:14px;}
+.education-agile-w3l-info p{ font-size:12px;}
+
+.overlay h4{ font-size:14px;}
+
+.col-sm-4{ font-size:14px;}
+
+/*专业技能*/
+/*生活与娱乐*/
+
+/*兴趣爱好*/
+.hobby h3{ color:#FFF; margin:20px; }
+.hobby img{ width:100px; height:100px; margin:20px;}
+.hobby p{ color:#FFF; font-size:14px; margin:10px 0 60 20px;}
+
+/*荣誉与奖励*/
+.caption h3{ font-size:14px;}
+.hover span{ font-size:12px; margin:10px;}
+.hover_p{background:url(../images/ic_hover.png)) no-repeat; margin-left:5px; margin-top:30px; padding-left:25px;}
+
+/*辅助技能*/
+.skill-agile p{ font-size:14px; margin-top:5px; margin-bottom:20px; color:#FFF;}
